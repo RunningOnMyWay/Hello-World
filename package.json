@@ -1,0 +1,27 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "just first one",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RunningOnMyWay/Hello-World.git"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "llx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RunningOnMyWay/Hello-World/issues"
+  },
+  "homepage": "https://github.com/RunningOnMyWay/Hello-World#readme"
+}
